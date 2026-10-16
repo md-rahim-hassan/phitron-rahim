@@ -1,18 +1,18 @@
-# Hi there, I'm Rahim Hassan 👋
+# Hi there, I'm Md. Rahim Hassan 👋
 
 <div align="center">
 
-[[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;NLP+%26+LLM+Application+Developer;Python+%26+FastAPI+Backend+Specialist]](https://rahim-ai-ml-portfolio.vercel.app/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;NLP+%26+LLM+Application+Developer;Python+%26+FastAPI+Backend+Specialist" alt="Typing SVG" />
 
 <p align="center">
   <b>Building practical AI, scalable machine learning solutions, and robust APIs.</b>
 </p>
 
-[[https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white]](https://rahim-ai-ml-portfolio.vercel.app/)
-[[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white]](https://www.linkedin.com/in/md-rahim-hassan-sarniabath-0b07aa440)
-[[https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black]](https://huggingface.co/rahimHassan09)
-[[https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white]](https://www.kaggle.com/rahimhassan)
-[[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white]](mailto:rahimhassansb@gmail.com)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rahim-ai-ml-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rahim-hassan-sarniabath-0b07aa440)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/rahimHassan09)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rahimhassan)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahimhassansb@gmail.com)
 
 </div>
 
@@ -33,11 +33,11 @@
 
 | Domain | Technologies & Libraries |
 | :--- | :--- |
-| **Languages** | [https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white] [https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white] [https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white] |
-| **AI / Machine Learning** | [https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white] [https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white] [https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white] [https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white] |
-| **LLMs & NLP** | [https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black] [https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white] [https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=fastapi&logoColor=white] |
-| **Backend & Deployment** | [https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white] [https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white] [https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white] |
-| **DevOps & Platforms** | [https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white] [https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white] [https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white] |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **AI / Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **LLMs & NLP** | ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=fastapi&logoColor=white) |
+| **Backend & Deployment** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **DevOps & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) |
 
 </div>
 
@@ -73,5 +73,5 @@
 
 - **Live Portfolio**: [rahim-ai-ml-portfolio.vercel.app](https://rahim-ai-ml-portfolio.vercel.app/)
 - **LinkedIn**: [linkedin.com/in/md-rahim-hassan-sarniabath-0b07aa440](https://www.linkedin.com/in/md-rahim-hassan-sarniabath-0b07aa440)
-- **Hugging Face**: [huggingface.co/rahimHassan09](https://huggingface.co/rahimHassan09)
+- **Hugging Face**: [huggingface.co/rahimHassan09](https://huggingface.co/huggingface.co/rahimHassan09)
 - **Direct Email**: [rahimhassansb@gmail.com](mailto:rahimhassansb@gmail.com)
